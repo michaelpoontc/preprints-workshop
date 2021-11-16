@@ -17,4 +17,4 @@ dependencies: []
 originalRepository: emma-wilson/preprints-workshop-template
 
 ---
-Summarise or recap the main elements you want participants to have learned in your workshop and finish up the session - using whatever activities or formats you think your participants will find useful.
+This is our first activity
