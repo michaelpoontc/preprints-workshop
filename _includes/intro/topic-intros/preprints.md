@@ -1,5 +1,7 @@
 Training on preprints helps researchers disseminate their research more rapidly and widely using preprint archives.
 
+Testing
+
 This training will teach researchers to:
 * **find archives**
 * understand how **preprinting changes the journal publication workflow**
