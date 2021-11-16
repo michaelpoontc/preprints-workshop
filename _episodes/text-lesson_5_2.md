@@ -1,9 +1,9 @@
 ---
-title: Wrap up and finish
-teaching: 5
-exercises: 10
+title: Activity 1
+teaching: 0
+exercises: 15
 duration: null
-summary: Summarise the learning objectives and ask any last questions.
+summary: Activity 1
 questions: null
 objectives: null
 keypoints: null
@@ -11,7 +11,7 @@ is-break: null
 ukrn_wb_rules:
   - allow-multiple
 day: 1
-order: 700000
+order: 150000
 missingDependencies: []
 dependencies: []
 originalRepository: emma-wilson/preprints-workshop-template
